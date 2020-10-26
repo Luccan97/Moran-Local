@@ -8,7 +8,7 @@ Bom, o método Moran Local de Anselin (LISA) pode ser utilizado para identifica�
 
 Vamos aplicar o script de LISA para verificar se existe correlação espacial entre óbitos cuja causa esteja associada a neoplasia (câncer) e os distritos administrativos de residências no município de São Paulo.
 
-Para funcionar, precisamos de uma camada shapefile (polígonos) com as unidades territóriais de interesse e as informações/valores que serão estudados (taxas de mortalidade por neoplasia (a cada 10.000 pessoas) por distrito administrativo.
+Para funcionar, precisamos de uma camada shapefile (polígonos) com as unidades territóriais de interesse e as informações/valores que serão estudados (taxas de mortalidade por neoplasia (a cada 10.000 pessoas) por distrito administrativo. Sigam o script armazenado no diretório e adaptem pequenos parâmetros para aplciar em outros contextos.
 
 
 # Resultado do processo! Identicação de aglomerados com autocorrelação esapcial positivo (high-high) ou negativo (low-low)
