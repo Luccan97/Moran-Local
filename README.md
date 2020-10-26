@@ -10,3 +10,7 @@ Vamos aplicar o script de LISA para verificar se existe correlação espacial en
 
 Para funcionar, precisamos de uma camada shapefile (polígonos) com as unidades territóriais de interesse e as informações/valores que serão estudados (taxas de mortalidade por neoplasia (a cada 10.000 pessoas) por distrito administrativo.
 
+
+# Resultado do processo! Identicação de aglomerados com autocorrelação esapcial positivo (high-high) ou negativo (low-low)
+
+![Screenshot](MORAN.png)
